@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-
   <title><![CDATA[Watch out - Alien Language!]]></title>
-  <link href="http://stonedgolem.github.com/alienlanguage/atom.xml" rel="self"/>
-  <link href="http://stonedgolem.github.com/alienlanguage/"/>
-  <updated>2013-03-27T20:22:59+01:00</updated>
-  <id>http://stonedgolem.github.com/alienlanguage/</id>
-  <author>
-    <name><![CDATA[Alien Speaker]]></name>
-    
-  </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
+
+  &#8230;
 
   
 </feed>
