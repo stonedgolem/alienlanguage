@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://stonedgolem.github.com/alienlanguage/sitemap.xml 
