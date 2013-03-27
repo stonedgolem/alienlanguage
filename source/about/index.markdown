@@ -23,6 +23,6 @@ At university I studied a strange thing. When I try to translate it, it would so
 
 As I mentioned before, this blog is about me improving my English. For publishing I use a combination of [OctoPress](http://octopress.org) and [github](http://github.com) -- the same combo that power my [original Blog](stonedgolem.de), which is maintained in German only. My posts are written in [makrdown](http://en.wikipedia.org/wiki/Markdown) in a text editor called ReText, which I set to check English spelling. But that alone won't help much. I need your help. Yes, you've read right. I ask you to help me.
 
-If you find a typo or wrong grammar in my sentence, please leave a comment of some kind. Either you use the [Disqus Comment Service](http://disqus.com) that I have integrated on all my pages and posts, or you can just send me an [email](mailto:floschulze@arcor.de).
+If you find a typo or wrong grammar in my sentence, please leave a comment of some kind. Either you use the [Disqus Comment Service](http://disqus.com) that I have integrated on all my pages and posts, or you can just send me an [email](mailto:alien@stonedgolem.de).
 
 If you like what I'm doing here you can also [flattr me a little bit](http://flattr.com). At the end of each of my posts you'll find a flattr-button which I would ask you in the case you want to flattr me. By doing so I can see which article you especially like -- and I can write a few more of them.
