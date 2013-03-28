@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Watch out - Alien Language!]]></title>
 
-  &#8230;
+  <title><![CDATA[Category: humble bundle | Watch out - Alien Language!]]></title>
+  <link href="http://stonedgolem.github.com/alienlanguage/blog/categories/humble-bundle/atom.xml" rel="self"/>
+  <link href="http://stonedgolem.github.com/alienlanguage/"/>
+  <updated>2013-03-28T19:14:16+01:00</updated>
+  <id>http://stonedgolem.github.com/alienlanguage/</id>
+  <author>
+    <name><![CDATA[Alien Speaker]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
@@ -10,24 +18,7 @@
     <link href="http://stonedgolem.github.com/alienlanguage/blog/2013/03/28/review-metal-slug-3/"/>
     <updated>2013-03-28T12:48:00+01:00</updated>
     <id>http://stonedgolem.github.com/alienlanguage/blog/2013/03/28/review-metal-slug-3</id>
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.com%2Falienlanguage%2Fblog%2F2013%2F03%2F28%2Freview-metal-slug-3%2F&amp;user_id=stonedgolem&amp;title=%5BThe+Humble+Mobile+Bundle%5D+Quick+review+of+Metal+Slug+3&amp;category=text&amp;description=&amp;tags=games%2Chumble+bundle%2Cmetal+slug+3" type="text/html" />
-    
-    <content type="html"><![CDATA[
-      <p><a href="http://humblebundle.com"><img class="center" src="http://stonedgolem.github.com/alienlanguage/images/humble_mobile_bundle.png" title="'Humble Mobile Bundle'" /></a></p>
+    <content type="html"><![CDATA[<p><a href="http://humblebundle.com"><img class="center" src="/images/humble_mobile_bundle.png" title="‘Humble Mobile Bundle’" ></a></p>
 
 <p>I’m into charity, especially when you can do something good and you’re immediately rewarded with awesome games. In the past years the <a href="http://humblebundle.com"><strong>Humble Bundle</strong></a> began to combine the ideas of <em>pay what you want</em>, <em>drm-free</em>, <em>cross-platform</em> and <em>charity</em>  to create awesome gaming packages. The bundles are offered for a limited time, so you have to be quick if you want to pick one up.</p>
 
@@ -37,11 +28,11 @@
 
 <!--more -->
 
-<p><img class="center" src="https://lh6.googleusercontent.com/--C540PUnv_Q/UVRtZigiwbI/AAAAAAAABPU/_AdT-u-y6L0/s872/2013+-+1" title="'The opening screen'" /></p>
+<p><img class="center" src="https://lh6.googleusercontent.com/–C540PUnv_Q/UVRtZigiwbI/AAAAAAAABPU/_AdT-u-y6L0/s872/2013+-+1" title="‘The opening screen’" ></p>
 
 <p>Metal Slug 3 is a classic arcade, side-scrolling action game like <a href="http://en.wikipedia.org/wiki/Turrican"><em>Turrican</em></a>. Both graphics and game play reminds of old Nintendo Super Famicom<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> days: It’s colourful, fast paced and forces you to constantly concentrate on the screen’s action.</p>
 
-<p><img class="center" src="https://lh6.googleusercontent.com/-TZo1iIBCGRs/UVQXkTePQlI/AAAAAAAABOc/rwtPbKgVZ7g/s872/2013+-+2" title="'Right after game start. The crab you see is one of the first enemies you can shoot'" /></p>
+<p><img class="center" src="https://lh6.googleusercontent.com/-TZo1iIBCGRs/UVQXkTePQlI/AAAAAAAABOc/rwtPbKgVZ7g/s872/2013+-+2" title="‘Right after game start. The crab you see is one of the first enemies you can shoot’" ></p>
 
 <p>After starting the game you can choose between four characters. While Metal Slug 3 is an action game it’s quite impressive that you can choose between two man <em>and</em> two women for confronting the enemy. As far as I can tell it does not matter what character you pick, because they all do the some: Running, jumping and shooting in all directions.</p>
 
@@ -51,7 +42,7 @@
 
 <p>As you fight your way through the levels you will eventually reach the end. There the boss enemy will await you for an epic final battle. You will face a big monster with a lot of health points and aggressive weapons designed only for one thing: killing you!</p>
 
-<p><img class="center" src="https://lh5.googleusercontent.com/-uOvArKcO5DI/UVQXkbiSj7I/AAAAAAAABOI/FbTOBfpB3Ys/s872/2013+-+1" title="'Who's the boss? Well, this tiny guy is at least the boss of level one'" /></p>
+<p><img class="center" src="https://lh5.googleusercontent.com/-uOvArKcO5DI/UVQXkbiSj7I/AAAAAAAABOI/FbTOBfpB3Ys/s872/2013+-+1" title="‘Who’s the boss? Well, this tiny guy is at least the boss of level one’" ></p>
 
 <p>That’s it. In other levels new enemies will await you, but the core gameplay won’t change anymore. Typically I don’t enjoy games like Metal Slug 3 much because I suck at them, but it’s quite a good time killer. It’s definitely not the worst game I ever played, even though it’s not my cup of coffee.</p>
 
@@ -63,7 +54,7 @@
 
 <p>According to the comments on Google Play this is an old and know problem, but it seems the developers are not going to fix it. Well, there is a workaround: Change the system language to “English” before launching the game and it will work correctly. That’s not user-friendly, but I can life with that solution. And because I’m lazy my Nexus 7 constantly speaks English with me now, which supports my infinite quest to master this language.</p>
 
-<p><img class="center" src="https://lh5.googleusercontent.com/-afRUESR0YWM/UVRvUgqZSeI/AAAAAAAABP4/2MP62PWZx7Q/s872/28.03.13+-+1" title="'error loading when your system language ist alien to the game'" /></p>
+<p><img class="center" src="https://lh5.googleusercontent.com/-afRUESR0YWM/UVRvUgqZSeI/AAAAAAAABP4/2MP62PWZx7Q/s872/28.03.13+-+1" title="‘error loading when your system language ist alien to the game’" ></p>
 
 <p>Happy Gaming!</p>
 
@@ -83,65 +74,7 @@
     </li>
   </ol>
 </div>
-
-    ]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[a new beginning]]></title>
-    <link href="http://stonedgolem.github.com/alienlanguage/blog/2013/03/27/a-new-beginning/"/>
-    <updated>2013-03-27T20:59:00+01:00</updated>
-    <id>http://stonedgolem.github.com/alienlanguage/blog/2013/03/27/a-new-beginning</id>
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.com%2Falienlanguage%2Fblog%2F2013%2F03%2F27%2Fa-new-beginning%2F&amp;user_id=stonedgolem&amp;title=a+new+beginning&amp;category=text&amp;description=&amp;tags=" type="text/html" />
-    
-    <content type="html"><![CDATA[
-      <p>Here it is. The Beginning of a new blog. For the first time in my life I’m starting to write long texts in English – and I’m crazy enough to publish the result on the internet for everyone to see. I do this because English is not my native language. It’s somehow alien to me although I’m not a beginner in this tongue. A decade ago my English was better<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> but as soon as I entered university I did not used my language skills actively. I read a few books in English – but talking? No way! As time passes my tongue got old and rusty and I began to stumble because I had to search for words I once knew.</p>
-
-<p>So I found myself on a crossroad with two ways to go on: Surrender to fate, do nothing, and wait until the rust turns to dust. <strong>Or</strong> I could get my ass up and do something against the degeneration. As you can see I choose the active path, set up a blog, which forces me to write<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> in English. I make it public for two reasons:</p>
-
-<ol>
-  <li>
-    <p>If you do something in public then you have in interest to continue that work because everyone would know if you fail. So regular updates are more likely when the public is watching.</p>
-  </li>
-  <li>
-    <p>I depend on feedback for reaching my goal of better English. Anyone who finds a typo or wrong grammar or bad style is invited to contact <em>and</em> correct me! Whether per comment or <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#097;&#108;&#105;&#101;&#110;&#064;&#115;&#116;&#111;&#110;&#101;&#100;&#103;&#111;&#108;&#101;&#109;&#046;&#100;&#101;">email</a>. Without getting noticed of mistakes I would constantly repeat them and the time I spend writing this blog would be useless. So please get in contact if you see something I made wrong!</p>
-  </li>
-</ol>
-
-<p>Well, I might (or better: <em>will</em>) get a lot of spam by publishing my email on the internet, but that’s okay as long as <em>their</em> English is less eloquent than mine. Thank god I still have the opportunity to get rid of that address if the level of spam gets to high. When I should be forced to change it, you’ll be among the first who will be informed!</p>
-
-<p>Before ending this post I would like to thank <a href="http://octopress.org">OctoPress</a> and <a href="http://guthub.com">github</a> fore providing the infrastructure of this blog. Moreover thanks to the developers of ReText (the editor I use to edit my posts) and Markdown (the markup language which simplified my life a lot). And thanks to all the people who step by, take a look and leave a comment.</p>
-
-<p>So, that’s it. That’s the beginning and the first post. Time for some more exciting content!</p>
-
-<hr />
-
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>or at least I <em>remember</em> it to be better. In retrospective I think I did all the things well I’ve done back then.<a href="#fnref:1" rel="reference">&#8617;</a></p>
-    </li>
-    <li id="fn:2">
-      <p>and <em>think</em>, for it makes writing a text of more than three sentences far easier!<a href="#fnref:2" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
-
-    ]]></content>
+]]></content>
   </entry>
   
 </feed>
